@@ -17,6 +17,7 @@ There is a German book >[Delphi für Kids](https://mitp.de/IT-WEB/fuer-Kids/Delp
 
 ### About me ###
 
+![fr4b3r1x](/fr4b3r1x-avatar.png)<br>
 CallMe: fr4b3r1x (fraberix)<br>
 Twitter: @fr4b3r1x<br>
 E-Mail: fr4b3r1x@posteo.me
