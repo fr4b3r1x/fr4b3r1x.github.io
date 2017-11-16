@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to >fr4b3r1x<
 
-You can use the [editor on GitHub](https://github.com/fr4b3r1x/fr4b3r1x.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here you'll find information and links to my open software and hardware projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects finished ###
 
-### Markdown
+- none yet
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects in progress or under construction ###
 
-```markdown
-Syntax highlighted code block
+- none yet
 
-# Header 1
-## Header 2
-### Header 3
+### Projects to come (soon, someday or maybe never) ###
 
-- Bulleted
-- List
+- Lazarus_4_Kids<br>
+There is a German book >Delphi für Kids<. I'm currently checking the book for usage in a coding after school club. The examples of the book are for Delphi(7). As I prefer the open source Free Pascal and Lazarus, I try to convert - where necessary - the examples.  Find the results in this repository.
 
-1. Numbered
-2. List
+### About me ###
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fr4b3r1x/fr4b3r1x.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+CallMe: fr4b3r1x (fraberix)<br>
+Twitter: @fr4b3r1x<br>
+E-Mail: fr4b3r1x@posteo.me
